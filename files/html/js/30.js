@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_flippingbook_publication=globalThis.webpackChunk_flippingbook_publication||[]).push([[30],{9783:(i,l,a)=>{a(4147).register({play:{width:16,height:16,viewBox:"0 0 24 24",data:'<path pid="0" _fill="#424B59" d="M17.53 11.15l-8-5A1 1 0 008 7v10a1 1 0 001.52.85l8-5a1 1 0 000-1.7z"/>'}})}}]);

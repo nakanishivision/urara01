@@ -1,0 +1,1 @@
+(globalThis.webpackChunk_flippingbook_publication=globalThis.webpackChunk_flippingbook_publication||[]).push([[29],{9596:(i,p,a)=>{a(4147).register({point:{width:24,height:24,viewBox:"0 0 24 24",data:'<path pid="0" opacity=".33" d="M11.5 20.5a8.5 8.5 0 100-17 8.5 8.5 0 000 17z" _fill="#424B59"/><path pid="1" d="M11.5 16a4 4 0 100-8 4 4 0 000 8z" _fill="#424B59"/>'}})}}]);
